@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Chen
 - 👀 I’m interested in Mathmatics and computer science
 - 🌱 I’m currently learning quaternion algebra.
-- 💞️ I’m working on post-quantum cryptography to collaborate on ...
+- 💞️ I’m working on post-quantum cryptography
 - 📫 How to reach me chenfenghe163@gmail.com
 
 <!---
